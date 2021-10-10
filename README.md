@@ -8,13 +8,26 @@ A responsive web page for Tunify - a music streaming app.
 
 &emsp;
 
+---
+
+&emsp;
+
+
 You can have a look at my website [here.](https://theoopsguy.github.io/tunify/ "Tunify")
+
+&emsp;
+
+---
 
 &emsp;
 
 Here is how it looks on a mobile screen:
 
 ![Mobile version](screenshots/mobile.png)
+
+&emsp;
+
+---
 
 &emsp;
 
